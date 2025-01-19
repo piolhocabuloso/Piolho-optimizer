@@ -15,7 +15,7 @@
 :root {
   --roxo: #9824f8;
   --text: #EDF1F7;
-  --red: #C51212;
+  --red: #6fcf00;
   --blue: #0041C2;
   --verde: #14B02D;
   --yellow: #ffc12b;
@@ -53,6 +53,6 @@ button:hover {
 
 ::-webkit-scrollbar-thumb{
   border-radius: 20px;
-  background-image: linear-gradient(black, black, #750000,#750000, black, black);
+  background-image: linear-gradient(black, black, #6cca00,#6cca00, black, black);
 }
 

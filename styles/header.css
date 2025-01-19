@@ -15,7 +15,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: #ff000007;
+    background: #88ff0007;
     height: 8vh;
     backdrop-filter: blur(10px);
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
@@ -39,7 +39,7 @@
 
 
   a:hover{
-    color: #af0000;
+    color: #6fcf00;
     transition-duration: .3s;
   }
 
@@ -66,7 +66,7 @@
       right: 0;
       width: 50vw;
       height: 92vh;
-      background: #23232e00;
+      background: #252e2300;
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
